@@ -1,0 +1,7 @@
+
+fsquid:UnusedPrivateMethod
+"5Remove this unused private "filterEachPerson" method.(×Îóóøÿÿÿÿ8ÍâÆ£…/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å½ˆÏøÿÿÿÿ
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯¹¨µ8ÍâÆ£…/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿åÛËüÿÿÿÿ8ÍâÆ£…/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶¾Ûüÿÿÿÿ8ÍâÆ£…/

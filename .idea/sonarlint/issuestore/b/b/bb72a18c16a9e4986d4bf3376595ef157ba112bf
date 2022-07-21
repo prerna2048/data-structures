@@ -1,0 +1,5 @@
+
+qsquid:ModifiersOrderCheck4"EReorder the modifiers to comply with the Java Language Specification.(€”î¼8Ë’¢ôë.
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¾éäôë.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÉÎ“‡8¾éäôë.
+Vsquid:S1197"8Move the array designator from the variable to the type.(†öÇŒ8¾éäôë.

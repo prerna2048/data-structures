@@ -1,0 +1,7 @@
+
+_squid:S1126@"AReplace this if-then-else statement by a single return statement.(Òàø¶8Š¸µçø.
+asquid:S1155G">Use isEmpty() to check whether the collection is empty or not.(ø¡¦šþÿÿÿÿ8ÎÊ™çø.
+dsquid:S1126G"AReplace this if-then-else statement by a single return statement.(ø¡¦šþÿÿÿÿ8¥›çø.
+asquid:S1155">Use isEmpty() to check whether the collection is empty or not.(—ìÚÜøÿÿÿÿ8ñ÷¼çø.
+9squid:S3626?"Remove this redundant jump.(ÉŠ©ƒ8¥‡ðæø.
+\squid:S1155">Use isEmpty() to check whether the collection is empty or not.(‘ç‘Þ8èí»çø.

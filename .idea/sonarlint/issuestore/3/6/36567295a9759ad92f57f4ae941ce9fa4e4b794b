@@ -1,0 +1,5 @@
+
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8æ¹¾”Š/
+usquid:S37763"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(€Â¼èûÿÿÿÿ8¤‘Ş”Š/
+Bsquid:S1659D"Declare "h" on a separate line.(±–¾âıÿÿÿÿ8¸³‰”Š/
+wsquid:S30126"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¹©Í8–®Ã”Š/

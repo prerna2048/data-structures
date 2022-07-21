@@ -1,0 +1,9 @@
+
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8œíîÃœ/
+esquid:S2094"BRemove this empty class, write its code or make it an "interface".(ÿø‘åûÿÿÿÿ8íÎº/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8íÎº/
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ûß¤Ô8íÎº/
+nsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Ÿ‹•şÿÿÿÿ8íÎº/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿Æ×ûÿÿÿÿ8íÎº/
+dsquid:UselessImportCheck"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠŞùÿÿÿÿ8œíîÃœ/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8íÎº/

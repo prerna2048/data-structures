@@ -1,0 +1,6 @@
+
+Ž"squid:ClassVariableVisibilityCheck	"TMake charList a static final constant or non-public and provide accessors if needed.(£²ÊŒúÿÿÿÿ8†“ÑÞ¾.
+Œ"squid:ClassVariableVisibilityCheck
+"WMake integerList a static final constant or non-public and provide accessors if needed.(Àÿíà8™¥–Í‡/
+asquid:S1155 ">Use isEmpty() to check whether the collection is empty or not.(ú·˜ýøÿÿÿÿ8ûøõ¹ž/
+asquid:S1155U">Use isEmpty() to check whether the collection is empty or not.(§ï¯±ùÿÿÿÿ8Ëîçï­/

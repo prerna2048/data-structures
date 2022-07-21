@@ -1,0 +1,4 @@
+
+fsquid:S5361*"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Î©š–8ûŒç¹/
+"squid:ClassVariableVisibilityCheck"VMake stringList a static final constant or non-public and provide accessors if needed.(¨öËÏøÿÿÿÿ8ŞÙ÷¹/
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ù÷÷¹/

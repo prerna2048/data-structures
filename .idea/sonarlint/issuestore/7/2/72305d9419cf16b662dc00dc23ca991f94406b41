@@ -1,0 +1,4 @@
+
+Ysquid:UselessImportCheck".Remove this unused import 'java.util.Objects'.(¼¸õ›8ÿÔòß¾.
+‰"squid:ClassVariableVisibilityCheck
+"TMake charList a static final constant or non-public and provide accessors if needed.(¦ê°è8ë™èŞ¾.

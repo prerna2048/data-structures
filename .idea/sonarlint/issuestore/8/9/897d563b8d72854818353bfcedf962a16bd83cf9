@@ -1,0 +1,10 @@
+
+Bsquid:S1659"Declare "k" on a separate line.(ãäÚ‘üÿÿÿÿ8Ü“õœí.
+Fsquid:S14811"(Remove this unused "obj" local variable.(„÷³€8•òåï.
+]squid:UnusedPrivateMethod"2Remove this unused private "commonElemets" method.(³Üı^8•òåï.
+Bsquid:S1659"Declare "j" on a separate line.(ãäÚ‘üÿÿÿÿ8Ü“õœí.
+Gsquid:S14813")Remove this unused "arr2" local variable.(é¹’ˆ8•òåï.
+Lsquid:S14812")Remove this unused "arr1" local variable.(¢î„áıÿÿÿÿ8•òåï.
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(³Üı^8Ëğ‰í.
+Lsquid:S14814")Remove this unused "arr3" local variable.(É¢Ö ıÿÿÿÿ8•òåï.
+nsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(¯É½çşÿÿÿÿ8•òåï.
